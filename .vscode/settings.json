@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "compiler.h": "c",
+        "string": "c",
+        "ostream": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "hash_map": "c",
+        "system_error": "c",
+        "string_view": "c",
+        "random": "c"
+    }
+}
